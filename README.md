@@ -1,7 +1,7 @@
 # ProactiveCare AI
 
 ## Project Overview
-The **Predictive Maintenance System** project uses advanced machine learning and deep learning techniques to predict the Remaining Useful Life (RUL) of machinery and equipment. By analyzing sensor data, it helps organizations optimize maintenance schedules, reduce downtime, and improve operational efficiency. The project integrates **Deep Learning (DL)**, **Reinforcement Learning (RL)**, and **SHAP** for model explainability.
+The **ProactiveCare AI** project uses advanced machine learning and deep learning techniques to predict the Remaining Useful Life (RUL) of machinery and equipment. By analyzing sensor data, it helps organizations optimize maintenance schedules, reduce downtime, and improve operational efficiency. The project integrates **Deep Learning (DL)**, **Reinforcement Learning (RL)**, and **SHAP** for model explainability.
 
 ---
 
